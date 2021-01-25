@@ -3,5 +3,5 @@ Lexer for basic expressions
 
 The grammar is following:
 
-expression  -> number | ' (' expression operator expression ')'\n
+expression  -> number | ' (' expression operator expression ')'<\br>
 operator	  -> '+' | '*'
